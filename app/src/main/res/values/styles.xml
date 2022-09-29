@@ -1,0 +1,91 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <!--    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/status_bar_grey</item>
+        <item name="colorAccent">@color/textcolorPrimary</item>
+        <item name="colorSecondary">@color/textcolorPrimary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="fontFamily">@font/montserrat</item>
+        <item name="android:fontFamily">@font/montserrat</item>
+        <item name="android:statusBarColor">@color/status_bar_grey</item>
+    </style>
+
+
+    <style name="ProgressAppTheme" parent="AppTheme">
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ProgressAppThemeFailed" parent="AppTheme">
+        <item name="colorAccent">@color/log_out_red</item>
+    </style>
+
+    <style name="ProgressAppThemePassed" parent="AppTheme">
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.StyleAccent">
+        <item name="background">@drawable/outline_button_gradient</item>
+        <item name="android:shadowColor">@color/shadow_color</item>
+    </style>
+
+
+    <style name="TextInputAppearance" parent="Widget.Design.TextInputLayout">
+        <item name="android:textSize">
+            14sp
+        </item>
+        <item name="fontStyle">normal</item>
+        <item name="fontFamily">@font/montserrat_medium</item>
+        <item name="fontWeight">500</item>
+        <item name="android:textColor">
+            @color/textTitleColor
+        </item>
+        <item name="android:textColorHint">@color/title_grey_color</item>
+        <item name="colorControlNormal">@color/textcolorPrimary</item>
+        <item name="colorControlActivated">@color/textcolorPrimary</item>
+        <item name="colorControlHighlight">@color/textcolorPrimary</item>
+    </style>
+
+    <style name="SignUpHeader">
+        <item name="fontFamily">@font/montserrat_bold</item>
+        <item name="android:letterSpacing">0.03</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textFontWeight" tools:ignore="NewApi">700</item>
+        <item name="android:textColor">@color/text_blue</item>
+    </style>
+
+    <style name="ContainedTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/title_grey_color</item>
+        <item name="boxStrokeWidth">0.5dp</item>
+    </style>
+
+
+    <style name="SignUpSubHeader">
+        <item name="fontFamily">@font/montserrat_semibold</item>
+        <item name="android:letterSpacing">0.03</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textFontWeight" tools:ignore="NewApi">400</item>
+        <item name="android:textColor">@color/textTitleColor</item>
+    </style>
+
+    <style name="EditTextLabel" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:textColorHint">@color/grey_90</item>
+        <item name="fontStyle">normal</item>
+        <item name="fontFamily">@font/montserrat_medium</item>
+        <item name="android:textFontWeight" tools:ignore="NewApi">500</item>
+        <item name="android:textSize">12sp</item>
+        <item name="boxStrokeColor">@color/title_grey_color</item>
+        <item name="boxStrokeWidth">0.5dp</item>
+    </style>
+
+
+</resources>

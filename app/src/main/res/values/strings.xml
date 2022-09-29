@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UserAuthApp</string>
+    <string name="logo">Logo</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SignUp</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="lets_get_started">Let\'s Get Started</string>
+    <string name="str_sign_up_set_up">Sign up and setup your account</string>
+    <string name="str_first_name">First Name</string>
+    <string name="str_last_name">Last Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">REGISTER</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="nigerian_flag">Nigerian flag</string>
+    <string name="_234">+234</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="reset">RESET</string>
+    <string name="back_to">Back to </string>
+    <string name="login_small">" login"</string>
+    <string name="sign_in">" Sign In"</string>
+</resources>
