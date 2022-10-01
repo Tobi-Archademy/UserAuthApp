@@ -23,4 +23,30 @@
     <string name="back_to">Back to </string>
     <string name="login_small">" login"</string>
     <string name="sign_in">" Sign In"</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="capture">Capture</string>
+    <string name="choose">Choose</string>
+    <string name="our_image">Our Image</string>
+    <string name="str_continue">CONTINUE</string>
+    <string name="cancel">CANCEL</string>
+
+    <string-array name="country_codes">
+        <item>NIG: +234</item>
+        <item>BEN: +229</item>
+        <item>BFA: +226</item>
+        <item>CPV: +238</item>
+        <item>CIV: +225</item>
+        <item>GAM: +220</item>
+        <item>GHA: +233</item>
+        <item>GUI: +224</item>
+        <item>GNB: +245</item>
+        <item>LIB: +231</item>
+        <item>MAL: +223</item>
+        <item>MAU: +222</item>
+        <item>NIR: +227</item>
+        <item>SEN: +221</item>
+        <item>SLE: +232</item>
+        <item>TOG: +228</item>
+    </string-array>
+
 </resources>

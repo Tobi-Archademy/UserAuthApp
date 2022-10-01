@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/AuthApp/app/src/main/res/drawable-v24/bg_country_code.xml" value="0.2265" />
+        <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/AuthApp/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.2265" />
+        <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/AuthApp/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.2265" />
+        <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/AuthApp/app/src/main/res/drawable-v24/ic_baseline_security_24.xml" value="0.2265" />
+        <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/AuthApp/app/src/main/res/drawable/button_shape.xml" value="0.2265" />
+        <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/AuthApp/app/src/main/res/layout/activity_camera.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/AuthApp/app/src/main/res/layout/activity_password_recovery.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/AuthApp/app/src/main/res/layout/activity_sign_up.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/AuthApp/app/src/main/res/layout/custom_spinner_row.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/AuthApp/app/src/main/res/layout/login_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/AuthApp/app/src/main/res/xml/file_paths.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/UserAuthApp/app/src/main/res/drawable-v24/input_bg.xml" value="0.104" />
         <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/UserAuthApp/app/src/main/res/drawable-v24/outline_button_gradient.xml" value="0.104" />
         <entry key="..\:/Users/Oluwateezy/AndroidStudioProjects/UserAuthApp/app/src/main/res/font-v26/font.xml" value="0.2625" />
